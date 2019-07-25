@@ -1,0 +1,6 @@
+  Cardiologia ;   763 ;  0.0
+
+  Genecologia ;   856 ;  0.0
+
+  Urologia ;   572 ;  0.0
+

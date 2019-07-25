@@ -1,0 +1,12 @@
+ Bruno ;  20 ;  49938
+
+ Claudio ;  19 ;  36578
+
+ jose abreu ;  45 ;  17285
+
+ Maria Costa ;  32 ;  60259
+
+ Bruno Rocha ;  43 ;  84607
+
+ Jorge Abreu ;  33 ;  18609
+
